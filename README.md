@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there%2C+be+welcome+%F0%9F%91%8B;I'm+Software+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Thanks+for+visit+my+GitHub🙋🏻‍♂️)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=piresgusttavo&show_icons=true&count_private=true&hide_border=true&title_color=e6e6ff&icon_color=4d4dff&text_color=c9d1d9&bg_color=000080" alt="Gustavo Pires Germano github stats""/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=piresgusttavo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piresgusttavo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div  align="center"> 
